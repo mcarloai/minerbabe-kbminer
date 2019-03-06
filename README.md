@@ -1,5 +1,5 @@
 # KBMiner
-AMD and Nvidia GPU Miner for **Grin**, **AE(æternity)** mining. 
+AMD and Nvidia GPU Miner for [**Grin**](https://grin-tech.org/), [**AE(aeternity)**](https://aeternity.com/) mining. 
 
 Developed by the [**Minerbabe**](https://minerbabe.com) team and open to all platforms.
 
