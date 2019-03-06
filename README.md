@@ -1,5 +1,6 @@
 # KBMiner
-AMD and Nvidia GPU Miner for **Grin**, **AE(æternity)** mining.
+AMD and Nvidia GPU Miner for **Grin**, **AE(æternity)** mining. 
+Developed by the [**Minerbabe**](https://minerbabe.com) team and open to all platforms.
 
 # Download
 [**Download here**](https://github.com/mcarloai/minerbabe-kbminer/releases)
