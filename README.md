@@ -7,7 +7,7 @@ Developed by the [**Minerbabe**](https://minerbabe.com) team and open to all pla
 [**Download here**](https://github.com/mcarloai/minerbabe-kbminer/releases)
 
 # Performance
-_Note: "-" means that the card is not supported; "..." means that the value has not been measured._
+_Note: "-" means that the card is not supported; "......" means that the value has not been measured._
 
 GPU | Grin-Cuckatoo29(GPS) | Grin-Cuckatoo31(GPS) | AE-Cuckoo29(GPS)
 ------------ | ------------- |------------- |------------- 
@@ -22,11 +22,11 @@ AMD 580 8G | 1.91 | 0.178 | 2.23
 AMD Vega64 8G | 4.06 | 0.410 | 4.48
 NVIDIA 1060 6G | 3.0 | - | 3.08
 NVIDIA 1070 8G | 4.5 | 0.316 | 4.45
-NVIDIA 1070Ti 8G | ... | 0.380 | 1.05
+NVIDIA 1070Ti 8G | ...... | 0.380 | 1.05
 NVIDIA 1080 8G | 4.9 | 0.339 | 5.05
 NVIDIA 1080Ti 11G | 7.05 | 0.551 | 7.0
-NVIDIA 2080 8G | ... | 0.69 | ...
-NVIDIA 2080Ti 11G | ... | 1.7 | ...
+NVIDIA 2080 8G | ...... | 0.69 | ......
+NVIDIA 2080Ti 11G | ...... | 1.7 | ......
 
 
 # Devfee
@@ -34,7 +34,7 @@ NVIDIA 2080Ti 11G | ... | 1.7 | ...
 * KBminer supports mining **AE** with 1% of devfee.
 
 # Usage
-KBminer is available for public download and use.
+KBminer is available for download and use.
 
 1. [Download](https://github.com/mcarloai/minerbabe-kbminer/releases) KBminer and extract it to a folder.
 2. Find the script file for this coin.
