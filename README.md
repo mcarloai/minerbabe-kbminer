@@ -1,5 +1,5 @@
 # KBMiner
-AMD and Nvidia GPU Miner for [**Grin**](https://grin-tech.org/), [**AE(aeternity)**](https://aeternity.com/) mining. 
+AMD and Nvidia GPU Miner for [**Grin**](https://grin-tech.org/), [**AE(aeternity)**](https://aeternity.com/) , [**VDS(vollar)**](http://www.vdsvollar.com/) mining. 
 
 Developed by the [**Minerbabe**](https://minerbabe.com) team and open to all platforms.
 
@@ -41,5 +41,6 @@ KBminer is available for download and use.
    * Grin29: run_grin29.sh
    * Grin31: run_grin31.sh
    * AE: run_ae.sh
+   * VDS: run_vds.sh
 3. Change the address and account information in the script.
 4. Run the script and start mining.
